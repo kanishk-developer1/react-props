@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kanishk-developer1/react-props/static/css/main.36cd1956.chunk.css",
+    "main.js": "/kanishk-developer1/react-props/static/js/main.c81eb92e.chunk.js",
+    "main.js.map": "/kanishk-developer1/react-props/static/js/main.c81eb92e.chunk.js.map",
+    "runtime-main.js": "/kanishk-developer1/react-props/static/js/runtime-main.c47bfa28.js",
+    "runtime-main.js.map": "/kanishk-developer1/react-props/static/js/runtime-main.c47bfa28.js.map",
+    "static/js/2.631fd919.chunk.js": "/kanishk-developer1/react-props/static/js/2.631fd919.chunk.js",
+    "static/js/2.631fd919.chunk.js.map": "/kanishk-developer1/react-props/static/js/2.631fd919.chunk.js.map",
+    "index.html": "/kanishk-developer1/react-props/index.html",
+    "precache-manifest.64efc0e0350e0c05e9951ce976fc1358.js": "/kanishk-developer1/react-props/precache-manifest.64efc0e0350e0c05e9951ce976fc1358.js",
+    "service-worker.js": "/kanishk-developer1/react-props/service-worker.js",
+    "static/css/main.36cd1956.chunk.css.map": "/kanishk-developer1/react-props/static/css/main.36cd1956.chunk.css.map",
+    "static/js/2.631fd919.chunk.js.LICENSE.txt": "/kanishk-developer1/react-props/static/js/2.631fd919.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kanishk-developer1/react-props/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c47bfa28.js",
+    "static/js/2.631fd919.chunk.js",
+    "static/css/main.36cd1956.chunk.css",
+    "static/js/main.c81eb92e.chunk.js"
+  ]
+}
