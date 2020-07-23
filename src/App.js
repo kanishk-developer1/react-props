@@ -4,6 +4,7 @@ import './App.css';
 import Table from './Table';
 import Form from './Form';
 import Api from './Api';
+import Clock from './Clock';
 
 class App extends Component {
   state = {
@@ -26,11 +27,18 @@ class App extends Component {
       },
     ],
   };
+
+  componentDidMount() {
+    setInterval(() => {
+      this.setState({ current: new Date() });
+    }, 1000);
+  }
   render() {
     const { characters } = this.state;
     return (
       <div className='container'>
         <img src={logo} className='App-logo' alt='logo' />
+        <Clock date={new Date()} />
         <h1>Hello React!</h1>
         <Table characterData={characters} remove={this.removeCharacter} />
         <h2>Add New Character</h2>
